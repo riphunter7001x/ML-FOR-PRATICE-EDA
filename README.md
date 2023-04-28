@@ -16,7 +16,9 @@ License
 To run the code examples, you will need to have the following software installed:
 
 Python 3.x
+
 Jupyter Notebook
+
 Required Python packages 
 
 # Datasets
