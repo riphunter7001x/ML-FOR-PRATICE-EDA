@@ -2,10 +2,14 @@
 This repository contains code examples and datasets for machine learning practice with a focus on exploratory data analysis (EDA). The code examples cover various machine learning tasks such as classification, regression, and clustering, and demonstrate how to perform EDA to gain insights into the datasets.
 
 ## Table of Contents
-Requirements
+Requirements 
+
 Datasets
+
 Code Examples
+
 Contributing
+
 License
 
 # Requirements
