@@ -17,7 +17,7 @@ To run the code examples, you will need to have the following software installed
 
 Python 3.x
 Jupyter Notebook
-Required Python packages (listed in requirements.txt)
+Required Python packages 
 
 # Datasets
 The repository includes several datasets that can be used for machine learning practice. Each dataset is stored in a separate directory and comes with a README file that provides details about the dataset.
